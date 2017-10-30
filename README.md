@@ -1,2 +1,2 @@
 # Mobileapp
-mobile app 
+mobile app cordova hybrid use Json-server
